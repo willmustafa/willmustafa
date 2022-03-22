@@ -26,3 +26,7 @@
  - [Elemental Engenharia](https://elementalengenharia.com)
  - [Garbo Engenharia](https://garboengenharia.com.br)
  - [Focco Engenharia](https://foccoengenharia.com.br)
+
+ ## Repositórios Criados
+ - [Calculadora de Investimentos](https://github.com/willmustafa/Calculadora-Investimentos) | Calculadora de juros compostos com HTML e javascript
+ - [Planilha de Controle Financeiro](https://github.com/willmustafa/money-controle-financeiro) | Planilha com HTML e javascript no google sheets
