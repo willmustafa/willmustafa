@@ -14,6 +14,7 @@
  - [x] Wordpress Intermediário
  - [x] C# Básico
  - [x] SQL Básico
+ - [x] VueJs Básico
  - [ ] SCSS
  - [ ] Java
  - [ ] .NET
@@ -22,7 +23,7 @@
  - [ ] API.REST
 
  ## Sites Desenvolvidos
- - [Thaila Nagazawa](https://thailanagazawa.com.br)
+ - [Thaila Nagazawa - VueJs](https://thailanagazawa.com.br)
  - [Elemental Engenharia](https://elementalengenharia.com)
  - [Garbo Engenharia](https://garboengenharia.com.br)
  - [Focco Engenharia](https://foccoengenharia.com.br)
@@ -30,3 +31,7 @@
  ## Repositórios Criados
  - [Calculadora de Investimentos](https://github.com/willmustafa/Calculadora-Investimentos) | Calculadora de juros compostos com HTML e javascript
  - [Planilha de Controle Financeiro](https://github.com/willmustafa/money-controle-financeiro) | Planilha com HTML e javascript no google sheets
+ - [Quanto isso Custa do Meu Tempo?](https://github.com/willmustafa/QuantoCustaDoMeuTempo) | Extensão para o Firefox e Chrome que adiciona quanto tempo você precisa trabalhar para comprar um produto
+ - [MustLearn - Blog Pessoal de Programação](https://github.com/willmustafa/learning) | Blog pessoal com informações sobre meus estudos em programação
+ - [NagaStudio - VueJs](https://github.com/willmustafa/NagaStudio-VUE) | Site feito utilizando VueJs para aprendizado
+ - [Valor Mercado - WebScraping - NodeJs](https://github.com/willmustafa/ValorMercado-WebScraping) | Web scraping de supermercados feito em NodeJs e Postgres
